@@ -1,0 +1,7 @@
+- insert:
+    - id: dsh-wsl-struct
+      name: dsh-wsl-struct
+      config:
+        enabled: true
+        timeoutMs: 15000
+        allowRoots: []
